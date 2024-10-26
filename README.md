@@ -1,4 +1,4 @@
-# Application CRUD Spring Boot & Thymeleaf 🚀
+# Application CRUD Spring Boot & Thymeleaf 
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.2.6-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Latest-green.svg)](https://www.thymeleaf.org)
@@ -7,7 +7,7 @@
 
 Une application CRUD simple construite avec Spring Boot et Thymeleaf, démontrant les fonctionnalités de gestion des utilisateurs.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 -  Créer, Lire, Mettre à jour et Supprimer des utilisateurs
 -  Validation des formulaires
