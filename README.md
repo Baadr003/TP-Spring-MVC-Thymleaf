@@ -1,10 +1,5 @@
 # Application CRUD Spring Boot & Thymeleaf 
 
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.2.6-brightgreen.svg)](https://spring.io/projects/spring-boot)
-[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Latest-green.svg)](https://www.thymeleaf.org)
-[![MySQL](https://img.shields.io/badge/MySQL-Latest-blue.svg)](https://www.mysql.com)
-[![Java](https://img.shields.io/badge/Java-8+-orange.svg)](https://www.java.com)
-
 Une application CRUD simple construite avec Spring Boot et Thymeleaf, démontrant les fonctionnalités de gestion des utilisateurs.
 
 ##  Fonctionnalités
@@ -14,7 +9,7 @@ Une application CRUD simple construite avec Spring Boot et Thymeleaf, démontran
 -  Interface utilisateur simple et claire
 -  Code source facile à comprendre
 
-## 🛠 Technologies Utilisées
+## Technologies Utilisées
 
 - Spring Boot 
 - Thymeleaf
@@ -23,7 +18,7 @@ Une application CRUD simple construite avec Spring Boot et Thymeleaf, démontran
 - Hibernate
 - Spring MVC
 
-## 📋 Prérequis
+## Prérequis
 
 Assurez-vous d'avoir installé :
 
