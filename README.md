@@ -119,7 +119,7 @@ public interface UserRepository extends CrudRepository<User, Long> {
 }
 ```
 
-## 🔧 Résolution des Problèmes
+##  Résolution des Problèmes
 
 Problèmes courants et solutions :
 
@@ -132,5 +132,11 @@ Problèmes courants et solutions :
    - Vérifiez si le port 8080 est disponible
    - Vérifiez la version de Java
    - Vérifiez la configuration dans application.properties
+
+##  Vidéo Démonstratif
+
+
+
+https://github.com/user-attachments/assets/860db14f-217f-4062-bde3-229771425a38
 
 
